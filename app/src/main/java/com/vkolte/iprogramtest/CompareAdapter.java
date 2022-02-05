@@ -22,7 +22,7 @@ public class CompareAdapter extends RecyclerView.Adapter<CompareAdapter.ViewHold
     private static final String TAG = "CompareAdapter";
     private Context context;
     private ArrayList<CompareModel> list;
-    private com.vkolte.iprogramtest.DBHelper mydb ;
+    public DBHelper mydb ;
 
     public CompareAdapter(Context context, ArrayList<CompareModel> list) {
         this.context = context;
