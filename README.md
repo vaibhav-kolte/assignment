@@ -1,6 +1,7 @@
 # assignment
 
 Added image in table
+
     SR_NO: Photo 1
     ID: 1
     URL: https://via.placeholder.com/600/92c952
